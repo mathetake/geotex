@@ -7,7 +7,6 @@ import (
 
 var (
 	accuracyToLength = map[uint]*quarterLength{
-		1:  {lat: 11.25, lng: 11.25},
 		2:  {lat: 1.40625, lng: 2.8125},
 		3:  {lat: 0.3515625, lng: 0.3515625},
 		4:  {lat: 0.0439453125, lng: 0.087890625},
