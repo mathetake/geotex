@@ -1,6 +1,6 @@
 # geotex [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) [![CircleCI](https://circleci.com/gh/mathetake/geotex.svg?style=shield)](https://circleci.com/gh/mathetake/geotex)
 
-Given a latlng, __geotex__ can be used to get the vertex of its geohash's rectangle and get geohashes whose rectangle contains the vertex.
+Given a latlng, __geotex__ can be used to get the nearest vertex of its geohash's rectangle and get geohashes whose rectangle contains the vertex.
 
 # usage
 
